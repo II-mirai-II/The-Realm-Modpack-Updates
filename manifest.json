@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "modpackVersion": "0.0.1",
+  "archiveUrl": "https://github.com/II-mirai-II/The-Realm-Modpack-Updates/releases/download/v0.0.1/modpack-0.0.1.rar",
+  "archiveSha256": "B2BCF7C35DD7C595AEC7E0A52C4495398334D5D2983C1E263608C5CE1F6104C7",
+  "required": true,
+  "replaceOptions": true
+}
